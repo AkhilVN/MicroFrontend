@@ -1,0 +1,18 @@
+{
+  "company": {
+    "name": "Meta",
+    "relation": "Parent",
+    "children": [
+      {
+        "name": "Instagram",
+        "type": "Social Media",
+        "relation": "Child A"
+      },
+      {
+        "name": "WhatsApp",
+        "type": "Messaging",
+        "relation": "Child B"
+      }
+    ]
+  }
+}
