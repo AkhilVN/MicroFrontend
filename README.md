@@ -89,3 +89,9 @@ This application is a MicroFrontend Application. It is designed to integrate mul
 
 # Objective of this application:
 This application aims to share the data from the file (Parent/src/app/data.json) with child components and display the respective child's name in its component.
+
+
+# Useful Links Regarding MFE Module Federation Plugin
+1. [Webpack Documentation](https://webpack.js.org/plugins/module-federation-plugin/)
+2. [Micro Frontend Architecture with Webpack Module Federation - Part 1](https://medium.com/trendyol-tech/micro-frontend-architecture-with-webpack-module-federation-part-1-9827d436bd1e)
+3. [Module Federation for Micro Frontends](https://medium.com/@krishnakiran1992/module-federation-for-micro-frontends-8ef1b024d248)
