@@ -1,4 +1,2 @@
-# 5x-platform-ui-sql-editor
-GitHub Repository for the SQL Editor UI
-test
-test2
+# Child B
+GitHub Repository for the Child B component
