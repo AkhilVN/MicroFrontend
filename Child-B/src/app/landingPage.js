@@ -5,6 +5,7 @@ const ChildComponent = () => {
     <div style={{ backgroundColor: "#ADD8E6", height: "25vh" }}>
       <h1>This is a child component B</h1>
       <h2>Name: </h2>
+      <h3>Making some changes to update these on code review</h3>
     </div>
   );
 };
